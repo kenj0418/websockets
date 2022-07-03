@@ -1,0 +1,6 @@
+terraform/dist
+terraform/.terraform
+*.hcl
+*.tfstate
+*.tfstate.backup
+demo/
